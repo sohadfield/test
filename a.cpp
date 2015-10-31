@@ -7,5 +7,6 @@ void main()
   #include "file5"
   #include "file6"
   #include "file7"
+  #include "file8"
 
 }
