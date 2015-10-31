@@ -5,5 +5,6 @@ void main()
   #include "file3"
   #include "file4"
   #include "file5"
+  #include "file6"
 
 }
